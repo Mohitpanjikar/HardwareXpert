@@ -1,0 +1,104 @@
+{
+  "equipment": [
+    {
+      "id": 1,
+      "title": "Industrial Bearings",
+      "slug": "industrial-bearings",
+      "description": "High-quality bearings designed for industrial machinery and equipment.",
+      "price": 299.99,
+      "manufacturer": "BearTech",
+      "isFeatured": true,
+      "image": "/courses/bearing.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Hydraulic Pumps",
+      "slug": "hydraulic-pumps",
+      "description": "Durable hydraulic pumps for efficient fluid power transmission.",
+      "price": 349.99,
+      "manufacturer": "HydroMaster",
+      "isFeatured": false,
+      "image": "/courses/gear.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Pneumatic Cylinders",
+      "slug": "pneumatic-cylinders",
+      "description": "Reliable pneumatic cylinders for various industrial applications.",
+      "price": 259.99,
+      "manufacturer": "PneuFlow",
+      "isFeatured": true,
+      "image": "/courses/gears.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Industrial Gears",
+      "slug": "industrial-gears",
+      "description": "Precision gears for heavy-duty machinery and equipment.",
+      "price": 399.99,
+      "manufacturer": "GearWorks",
+      "isFeatured": false,
+      "image": "/courses/hydraolic.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Linear Actuators",
+      "slug": "linear-actuators",
+      "description": "High-performance linear actuators for accurate movement control.",
+      "price": 419.99,
+      "manufacturer": "ActuPro",
+      "isFeatured": false,
+      "image": "/courses/hardware1.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Electric Motors",
+      "slug": "electric-motors",
+      "description": "Efficient electric motors for various industrial and commercial applications.",
+      "price": 479.99,
+      "manufacturer": "ElectraTech",
+      "isFeatured": true,
+      "image": "/courses/hardware2.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Conveyor Belts",
+      "slug": "conveyor-belts",
+      "description": "Durable conveyor belts for material handling and transport systems.",
+      "price": 529.99,
+      "manufacturer": "ConveyPro",
+      "isFeatured": false,
+      "image": "/courses/hardware3.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Gearboxes",
+      "slug": "gearboxes",
+      "description": "Robust gearboxes for torque transmission and mechanical power transfer.",
+      "price": 599.99,
+      "manufacturer": "GearMax",
+      "isFeatured": true,
+      "image": "/courses/hardware4.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Hydraulic Valves",
+      "slug": "hydraulic-valves",
+      "description": "High-quality hydraulic valves for controlling fluid flow in hydraulic systems.",
+      "price": 649.99,
+      "manufacturer": "ValveTech",
+      "isFeatured": true,
+      "image": "/courses/hardware5.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Precision Pumps",
+      "slug": "precision-pumps",
+      "description": "Accurate and efficient precision pumps for specialized fluid handling.",
+      "price": 699.99,
+      "manufacturer": "PumpPro",
+      "isFeatured": true,
+      "image":"/courses/hardware6.jpg"
+    }
+  ]
+}
